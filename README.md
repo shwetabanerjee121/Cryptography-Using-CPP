@@ -41,7 +41,7 @@ VigenereApp # Compiled binary for VigenereApp.cpp
 
 ---
 
-## ⚙️ How to Compile and Run
+## How to Compile and Run
 
 ### Compile
 
@@ -49,5 +49,9 @@ VigenereApp # Compiled binary for VigenereApp.cpp
 g++ VigenereApp.cpp -o VigenereApp
 ./VigenereApp
 ```
+
+## Example Input/Output
+![image](https://github.com/user-attachments/assets/164fe303-7a33-46b4-979d-b78eabd8aeb3)
+
 
 
