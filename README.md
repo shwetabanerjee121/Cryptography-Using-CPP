@@ -2,7 +2,7 @@
 
 This is a simple command-line application built in C++ that implements **encryption and decryption** using the **Vigenère cipher**, a classic cryptographic algorithm. The project is designed for learning purposes and demonstrates how text can be securely encoded and decoded using a keyword-based shifting mechanism.
 
-Note: This project is designed to work with capital letters only.
+**Note: This project is designed to work with capital letters only.**
 
 How the Vigenère Cipher works:
 The Vigenère cipher is a method of encrypting alphabetic text by using a series of Caesar ciphers based on the letters of a keyword.
