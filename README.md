@@ -50,20 +50,4 @@ g++ VigenereApp.cpp -o VigenereApp
 ./VigenereApp
 ```
 
-## Example Output:
-
-Enter plaintext: HELLO  
-
-Enter key: KEY  
-
-Encrypted text: RIJVS  
-
-
-Do you want to decrypt? (y/n): y  
-
-Enter ciphertext: RIJVS  
-
-Enter key: KEY  
-
-Decrypted text: HELLO  
 
